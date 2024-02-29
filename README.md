@@ -1,2 +1,2 @@
-# Crime-Management-Online-Portal-in-Django-Jquery-and-Bootstrap
+# Online_Crime_Registration
 An online complaint registration system for the crime related incidents that happened with you. 
